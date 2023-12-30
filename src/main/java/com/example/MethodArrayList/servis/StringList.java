@@ -1,4 +1,4 @@
-package com.example.MethodArrayList;
+package com.example.MethodArrayList.servis;
 
 public interface StringList {
     String add(String item);
